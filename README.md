@@ -1,2 +1,2 @@
 # PrincipiosGRASP-MVC
-Nesse projeto há os princípios  GRASP controlller , creator, alta coesão, baixo acoplamento  e especialista de informação em situações expostas pelo TODOS.
+In this project there are the principles GRASP controller, creator, high cohesion, low coupling and information specialist in situations exposed by ALL.
